@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Idioms</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        .idiom {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .idiom h3 {
+            margin-top: 0;
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Common English Idioms</h1>
+    
+    <div class="idiom">
+        <h3>Break a leg</h3>
+        <p><strong>Meaning:</strong> Good luck!</p>
+        <p><strong>Example:</strong> You're on in 5 minutes. Break a leg!</p>
+    </div>
+
+    <div class="idiom">
+        <h3>Hit the books</h3>
+        <p><strong>Meaning:</strong> To study, especially with particular intensity.</p>
+        <p><strong>Example:</strong> I've got a big test tomorrow, so I need to hit the books tonight.</p>
+    </div>
+
+    <div class="idiom">
+        <h3>Piece of cake</h3>
+        <p><strong>Meaning:</strong> Something very easy to do.</p>
+        <p><strong>Example:</strong> The exam was a piece of cake. I finished it in half the allotted time.</p>
+    </div>
+
+    <div class="idiom">
+        <h3>Costs an arm and a leg</h3>
+        <p><strong>Meaning:</strong> Very expensive.</p>
+        <p><strong>Example:</strong> I'd love to buy a new car, but it costs an arm and a leg.</p>
+    </div>
+
+    <div class="idiom">
+        <h3>Under the weather</h3>
+        <p><strong>Meaning:</strong> Feeling ill.</p>
+        <p><strong>Example:</strong> I'm feeling a bit under the weather today, so I'm going to stay home.</p>
+    </div>
+</body>
+</html>
